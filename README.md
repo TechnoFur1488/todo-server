@@ -28,5 +28,4 @@
 
 ## 🌐 Open in browser
 
-- [Client](http://localhost:5173)
-- [API](http://localhost:5000/api)
+- [Website](https://todo-client-nikitas-projects-e30fe775.vercel.app)

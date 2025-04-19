@@ -19,7 +19,7 @@
 
 ## 🔒 localhost
 
--[localhost](http://localhost:5173)
+- [localhost](http://localhost:5173)
 
 ## 📽️ projets 
 

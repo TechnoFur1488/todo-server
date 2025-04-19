@@ -17,13 +17,16 @@
     docker-compose up --build
 ```
 
-## projets 📽️
+## 🔒 localhost
+
+-[localhost](http://localhost:5173)
+
+## 📽️ projets 
 
 - [todo-server](https://github.com/TechnoFur1488/todo-ser.git)
 - [todo-client](https://github.com/TechnoFur1488/todo-client.git)
 
 ## 🌐 Open in browser
-
 
 - [Client](http://localhost:5173)
 - [API](http://localhost:5000/api)

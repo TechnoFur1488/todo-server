@@ -17,6 +17,11 @@
     docker-compose up --build
 ```
 
+## projets 📽️
+
+- [todo-server](https://github.com/TechnoFur1488/todo-ser.git)
+- [todo-client](https://github.com/TechnoFur1488/todo-client.git)
+
 ## 🌐 Open in browser
 
 
